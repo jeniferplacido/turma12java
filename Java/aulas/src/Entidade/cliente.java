@@ -1,4 +1,4 @@
-package Lista6;
+	package Entidade;
 
 import java.util.Scanner;
 
